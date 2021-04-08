@@ -1,0 +1,15 @@
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.exe
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.deps.json
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.json
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.runtimeconfig.dev.json
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.dll
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\bin\Debug\netcoreapp3.1\RecapDemo.pdb
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csprojAssemblyReference.cache
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.Form1.resources
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csproj.GenerateResource.cache
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfoInputs.cache
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.AssemblyInfo.cs
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.dll
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.pdb
+C:\Users\09371244\Desktop\working\RecapDemo\RecapDemo\obj\Debug\netcoreapp3.1\RecapDemo.genruntimeconfig.cache
